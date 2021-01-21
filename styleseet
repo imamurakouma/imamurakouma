@@ -1,0 +1,100 @@
+.saisho{
+    list-style: none;
+    float:left;
+    padding:20px;
+
+}
+h4{
+    font-family: 'Noto Sans JP', sans-serif;
+    margin: 0px ;
+}
+.header{
+    padding:0px 20px ;
+    background-color:#26d0c9;
+    height:100px;
+    color:white;
+}
+.header-logo{
+    float: left;
+}
+h1{
+   margin: 10px;
+   padding-left: 60px;
+}
+.main{
+    height:3000px;
+    margin:0px 50px;
+}
+h2{
+    color:#235d8a;
+    margin:20px 0px;
+    padding:10px;
+    text-align:center;
+    border:3px solid ;
+    margin-top:20px;
+
+}
+h3{
+    color:#235d8a;
+    margin:0px ;
+    text-align:center;
+
+}
+p{
+    margin:0px;
+    color: #7892b9;
+}
+span{
+    color:tomato;
+}
+.kyoumi{
+     color:#7892b9;
+    text-align: center;
+
+}
+.sab{
+    height:600px;
+    margin:0px 50px;
+}
+.keitou-logo{
+    float:left;
+    margin-right:10px;
+    width:20.5%;
+}
+.keitou-daimei{
+    color:#235d8a;
+}
+.keitou{
+    margin:0px 60px 0px 60px;
+    height:300px;
+
+}
+ul li::marker {
+     color:#26d0c9;
+}
+.shasinn{
+  text-align:center;
+  float:left;
+}
+.k{
+    float:left;
+    text-align:center;
+}
+.tuketasi{
+  margin-right:20px;
+}
+.maegaki-logo{
+  margin-top:30px;
+}
+.hi{
+  height:450px;
+}
+.ougonnhi{
+  text-align: center;
+}
+.hi{
+  margin:0px 50px;
+}
+.saigo{
+  color:#7892b9;
+}
